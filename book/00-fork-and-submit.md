@@ -25,13 +25,10 @@ Use a commit message that describes your actual change. Include any new source f
 
 7. Open **Actions** in your fork. If GitHub says workflows are disabled for the fork, click **I understand my workflows, go ahead and enable them** (wording may vary). Push a commit, or use **Run workflow** on Calculator tests. Fix failures until the latest run passes with 100% coverage.
 8. Add that successful Actions run URL to `STUDENT_README.md`.
-9. Submit **your fork's repository URL** in the Canvas assignment for your section. Do not open a pull request to the instructor repository to submit.
+9. Submit **your fork's repository URL** in your Canvas assignment. Do not open a pull request to the instructor repository to submit.
 
 The starter's tests can pass before you finish. That only proves the starter works. Full completion also requires all operations, commands, history, a working CLI, meaningful tests, and your explanations.
 
-| Section | Due (Eastern Time) | Canvas submission |
-| --- | --- | --- |
-| IS218001 | Wednesday, October 14, 2026, 10:00 a.m. | [Submit here](https://njit.instructure.com/courses/70712/assignments/763825) |
-| IS218003 | Monday, October 12, 2026, 2:30 p.m. | [Submit here](https://njit.instructure.com/courses/70713/assignments/763863) |
+Check Canvas for your assignment deadline.
 
 [Back to the contents](../README.md) · [Next: calculator requirements](01-what-your-calculator-must-do.md)

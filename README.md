@@ -1,13 +1,8 @@
 # CLI Calculator: OOP, Design Patterns, and Testing
 
-A short assignment book for NJIT IS218, Fall 2026. Build a terminal calculator one small step at a time. Learn static, class, and instance methods; abstraction, inheritance, polymorphism, encapsulation, and composition; Factory, Command, and Strategy; and simple SOLID responsibilities.
+A short assignment book for NJIT IS218. Build a terminal calculator one small step at a time. Learn static, class, and instance methods; abstraction, inheritance, polymorphism, encapsulation, and composition; Factory, Command, and Strategy; and simple SOLID responsibilities.
 
-**Start by [forking this repository](book/00-fork-and-submit.md).** This repository is shared by sections 001 and 003 for the same assignment. Submit the URL of your own completed fork in Canvas.
-
-| Section | Due (Eastern Time) | Assignment |
-| --- | --- | --- |
-| 001 | Wednesday, October 14, 2026, 10:00 a.m. | [Canvas assignment](https://njit.instructure.com/courses/70712/assignments/763825) |
-| 003 | Monday, October 12, 2026, 2:30 p.m. | [Canvas assignment](https://njit.instructure.com/courses/70713/assignments/763863) |
+**Start by [forking this repository](book/00-fork-and-submit.md).** Submit the URL of your own completed repository in Canvas. Check Canvas for your deadline.
 
 ## Read the book
 
